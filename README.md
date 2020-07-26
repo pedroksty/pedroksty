@@ -3,9 +3,10 @@
 
 <div align="center" width="50">
 
-<img src="./assets/github.png" alt="Welcome!" width="300"/>
+  <img src="./assets/github.png" alt="Welcome!" width="300"/>
 
 </div>
+
 <a href="https://twitter.com/pedroksty">
   <img align="left" alt="Pedro's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
