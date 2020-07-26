@@ -1,7 +1,7 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 
-<div align="center" width="50">
+<div width="50">
 
   <img src="./assets/github.png" alt="Welcome!" width="300"/>
 
