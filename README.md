@@ -3,7 +3,7 @@
 
 <div width="50">
 
-  <img src="./welcome.png" alt="Welcome!" width="300"/>
+  <img src="./assets/welcome.png" alt="Welcome!" width="300"/>
 
 </div>
 
