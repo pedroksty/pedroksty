@@ -3,7 +3,7 @@
 
 <div width="50">
 
-  <img src="./assets/github.png" alt="Welcome!" width="300"/>
+  <img src="./github.png" alt="Welcome!" width="300"/>
 
 </div>
 
