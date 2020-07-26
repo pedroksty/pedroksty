@@ -34,7 +34,7 @@
 
 <br />
 
-### Glad to see you here! 🤩 ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi)
+### Glad to see you here! 🤩 ![](https://visitor-badge.glitch.me/badge?page_id=pedroksty.pedroksty)
 
 I'm a final student pursuing Bachelors's in Science and Technology 🎓 from Universidade Federal do Rio Grande do Norte 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on React, React Native and Nodejs ⚛️.
 
