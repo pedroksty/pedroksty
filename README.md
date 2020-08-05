@@ -1,20 +1,20 @@
 <img width="auto" src="https://i.imgur.com/JdlFACa.png">
 
-### Olá pessoal, Pedro Henrique aqui <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+### Hi there! Pedro henrique here <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-Sou apaixonado por resolver problemas utilizando a programação.
-Sou um FullStack Developer :computer:
+I am passionate about solving problems using programming.
+I'm a FullStack developer :computer:
 
-❤ &nbsp; Estou trabalhando como bolsista na **@Natalnet** da UFRN
-<br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
-<br/> 💬 &nbsp; Sobre mim: Curto tecnologias, Warcraft e seriados.
+❤ &nbsp; I am working as scholarship holder at **@Natalnet** at UFRN
+<br/> :computer: &nbsp; my stack: ReactJS, Node.js, React Native & Typescript
+<br/> 💬 &nbsp; about me: I like technologies, Warcraft and series.
 <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-PedroHenrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henrique-b9541a199/)](https://www.linkedin.com/in/pedro-henrique-b9541a199/)
 |
 [![Gmail Badge](https://img.shields.io/badge/-pedrotrab2132@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrotrab2132@gmail.com)](mailto:pedrotrab2132@gmail.com)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=pedroksty&show_icons=true&hide_border=true)
 
-## Me siga nas redes sociais
+## Follow me on social media
 
 <div>
 <a href="https://twitter.com/pedroksty">
