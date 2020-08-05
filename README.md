@@ -5,7 +5,7 @@
 Sou apaixonado por resolver problemas utilizando a programação.
 Sou um FullStack Developer :computer:
 
-❤ &nbsp; Estou trabalhando como bolsista na **@Natalnet** da UFRN
+❤ Estou trabalhando como bolsista na **@Natalnet** da UFRN
 
 <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
 <br/> 💬 &nbsp; Sobre mim: Curto tecnologias, Warcraft e seriados.
