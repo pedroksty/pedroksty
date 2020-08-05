@@ -36,6 +36,7 @@ Sou um FullStack Developer :computer:
 </div>
 
 <div>
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=pedroksty&show_icons=true&hide_border=true)
 
 </div>
