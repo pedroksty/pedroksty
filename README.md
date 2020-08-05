@@ -1,4 +1,4 @@
-<img width="auto" src="https://i.imgur.com/N1wBJlE.jpg">
+<img width="auto" src="https://i.imgur.com/JdlFACa.png">
 
 ### Hi there! Pedro henrique here <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
