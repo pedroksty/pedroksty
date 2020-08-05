@@ -5,8 +5,7 @@
 Sou apaixonado por resolver problemas utilizando a programação.
 Sou um FullStack Developer :computer:
 
-❤ Estou trabalhando como bolsista na **@Natalnet** da UFRN
-
+❤ &nbsp; Estou trabalhando como bolsista na **@Natalnet** da UFRN
 <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
 <br/> 💬 &nbsp; Sobre mim: Curto tecnologias, Warcraft e seriados.
 <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-PedroHenrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henrique-b9541a199/)](https://www.linkedin.com/in/pedro-henrique-b9541a199/)
