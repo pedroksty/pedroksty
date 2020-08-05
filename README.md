@@ -12,6 +12,8 @@ Sou um FullStack Developer :computer:
 |
 [![Gmail Badge](https://img.shields.io/badge/-pedrotrab2132@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrotrab2132@gmail.com)](mailto:pedrotrab2132@gmail.com)
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=pedroksty&show_icons=true&hide_border=true)
+
 ## Me siga nas redes sociais
 
 <div>
@@ -33,10 +35,4 @@ Sou um FullStack Developer :computer:
 <a href="https://www.facebook.com/pedroksty/">
   <img align="left" alt="Pedro's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-</div>
-
-<div>
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=pedroksty&show_icons=true&hide_border=true)
-
 </div>
