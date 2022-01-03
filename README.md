@@ -12,6 +12,9 @@ I'm a FullStack developer :computer:
 |
 [![Gmail Badge](https://img.shields.io/badge/-pedrotrab2132@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrotrab2132@gmail.com)](mailto:pedrotrab2132@gmail.com)
 
+### Minhas atividade no Github
+![pedro's github top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroksty&layout=compact&theme=radical)
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=pedroksty&show_icons=true&hide_border=true)
 
 ## Follow me on social media
